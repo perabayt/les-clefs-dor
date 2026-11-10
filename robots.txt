@@ -1,0 +1,3 @@
+# Konsept önizlemesi: arama motorlarına kapalı. Yayına alırken SITE_INDEX=1 ile derleyin.
+User-agent: *
+Disallow: /
